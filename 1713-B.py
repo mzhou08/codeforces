@@ -1,3 +1,7 @@
+'''
+SOVLED
+'''
+
 def is_optimal_reduction():
     n = int(input())
     arr: list[int] = [int(elem) for elem in input().split()]

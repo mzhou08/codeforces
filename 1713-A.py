@@ -1,3 +1,7 @@
+'''
+SOLVED
+'''
+
 def find_greatest_rectangle_dimensions() -> tuple[int, int]:
     num_points = int(input())
     xs = [0]

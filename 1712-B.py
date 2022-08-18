@@ -1,3 +1,7 @@
+'''
+SOLVED
+'''
+
 t = int(input())
 
 # memos = {0: [], 1: [1]}
